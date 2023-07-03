@@ -1,0 +1,142 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML 5",
+            "level": "Specialist",
+            "icon": "https://i.postimg.cc/s2X4XDqP/Screenshot-2023-07-01-113447.png"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "level": "Specialist",
+            "icon": "https://i.postimg.cc/8574yPbk/Screenshot-2023-07-01-113438.png"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap",
+            "level": "Skilled",
+            "icon": "https://i.postimg.cc/kMF60Ph7/Screenshot-2023-07-01-113714.png"
+        },
+        {
+            "id": 4,
+            "name": "Javascript",
+            "level": "Average",
+            "icon": "https://i.postimg.cc/5tTL25w1/Screenshot-2023-07-01-113531.png"
+        },
+        {
+            "id": 5,
+            "name": "VueJs",
+            "level": "Beginner",
+            "icon": "https://i.postimg.cc/HLXsbbqT/Screenshot-2023-07-01-113739.png"
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "place": "Groenvlei High School",
+            "type": "High School",
+            "qualification": "Matric",
+            "duration": "2016 - 2020",
+            "imageUrl": "https://i.postimg.cc/br0MqwS0/GROENVLEI-LOGO.png"
+        },
+        {
+            "id": 2,
+            "place": "Life Choices Academy",
+            "type": "Coding Academy",
+            "qualification": "Junior Web Developer",
+            "duration": "April 2023 - Present",
+            "imageUrl": "https://i.postimg.cc/Bn7zSybz/download.png"
+        }
+    ],
+    "workExperience": [
+        {
+            "id": 1,
+            "place": "Checkers",
+            "type": "Store Assistant",
+            "duration": "December 2019 - January 2020"
+        },
+        {
+            "id": 2,
+            "place": "Bounty Brands",
+            "type": "Warehouse Assistant",
+            "duration": "May 2021 - July 2021"
+        },
+        {
+            "id": 3,
+            "place": "Belgravia High School",
+            "type": "Teacher's Assistant",
+            "duration": "November 2021 - September 2022"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "link": "https://github.com/Mish-Al/To-Do-List.git",
+            "name": " Javascript To-do List"
+        },
+        {
+            "id": 2,
+            "link": "https://github.com/Mish-Al/Mish-AlBSPortfolio.git",
+            "name": "Bootstrap Portfolio"
+        },
+        {
+            "id": 3,
+            "link": "https://github.com/Mish-Al/BMICalculator.git",
+            "name": "BMI Calculator"
+        },
+        {
+            "id": 4,
+            "link": "https://github.com/Mish-Al/JSEcommerse.git",
+            "name": "Ecommerse Website"
+        },
+        {
+            "id": 5,
+            "link": "https://github.com/Mish-Al/Calculator.git",
+            "name": "Calculator"
+        },
+        {
+            "id": 6,
+            "link": "https://github.com/Mish-Al/jsonServer.git",
+            "name": "Data Server"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Laiquah Cotie",
+            "comments": "Working with Mish-Al was an incredible experience. His professionalism, attention to detail, and communication skills made the entire process seamless. He consistently exceeded my expectations and delivered exceptional results. I would highly recommend Mish-Al to anyone looking for a talented and dedicated professional.",
+            "image": "https://i.postimg.cc/2ysRfb2J/C12-Laiquah-Cotie-2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Rayhaan Khan",
+            "comments": "Mish-Al is a highly thought intellectual from my perspective. He is extremely kind, passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership  skills and any company would be lucky to have him on their team.",
+            "image": "https://i.postimg.cc/q7SwzvYV/C12-Rayhaan-Khan-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Nuraan Samodien",
+            "comments": "From my perspective, Mish-Al is a highly thought intellectual. He is passionate, ambitious, and hardworking. He brings the best vibes and always has a positive attitude. He has great communication and leadership skills and any company would be lucky to have him on their team.",
+            "image": "https://i.postimg.cc/JnXvc960/C12-C2-Nuraan-Samsodien-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Mujahied Fisher",
+            "comments": "Mish-Al is an amazing person and contains qualities of a leader. He is hard working and pursues everything he does with passion and discipline. I see him face challenges everyday and overcome them with his determination to finish what he started.",
+            "image": "https://i.postimg.cc/Wzsm113M/C12-C2-Mujahid-Fisher-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Eighton-Lee Paulse",
+            "comments": "It's always a pleasure to work with Mish-Al. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
+            "image": "https://i.postimg.cc/tCwYvByR/C12-C2-Eighton-Lee-Paulse-2.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Abdul-Azeez Kemp",
+            "comments": "As his Assistant Lecturer, I find that he is a great guy, always fun to be around. His communication and assistance with others is great, always available to assist and his coding skills are good his peers can always ask him for assistance.",
+            "image": "https://i.postimg.cc/cJc3WqFq/Screenshot-20221101-100639-edit-159098746871600.jpg"
+        }
+    ]
+}
