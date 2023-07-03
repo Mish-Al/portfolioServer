@@ -4,31 +4,31 @@
             "id": 1,
             "name": "HTML 5",
             "level": "Specialist",
-            "icon": "https://i.postimg.cc/s2X4XDqP/Screenshot-2023-07-01-113447.png"
+            "icon": "https://i.postimg.cc/wjTYPQ9d/img5.png"
         },
         {
             "id": 2,
             "name": "CSS",
             "level": "Specialist",
-            "icon": "https://i.postimg.cc/8574yPbk/Screenshot-2023-07-01-113438.png"
+            "icon": "https://i.postimg.cc/25S9FCnQ/csslogo.png"
         },
         {
             "id": 3,
             "name": "Bootstrap",
             "level": "Skilled",
-            "icon": "https://i.postimg.cc/kMF60Ph7/Screenshot-2023-07-01-113714.png"
+            "icon": "https://i.postimg.cc/fbMvXdV2/bootstraplogo.png"
         },
         {
             "id": 4,
             "name": "Javascript",
             "level": "Average",
-            "icon": "https://i.postimg.cc/5tTL25w1/Screenshot-2023-07-01-113531.png"
+            "icon": "https://i.postimg.cc/Prm5C3Bj/javascript.png"
         },
         {
             "id": 5,
             "name": "VueJs",
             "level": "Beginner",
-            "icon": "https://i.postimg.cc/HLXsbbqT/Screenshot-2023-07-01-113739.png"
+            "icon": "https://i.postimg.cc/WbSFz59c/png-transparent-vuejs-original-wordmark-logo-icon.png"
         }
     ],
     "education": [
