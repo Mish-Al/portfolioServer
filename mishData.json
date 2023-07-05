@@ -79,31 +79,31 @@
         {
             "id": 2,
             "link": "https://github.com/Mish-Al/Mish-AlBSPortfolio.git",
-            "name": "Bootstrap Portfolio"
+            "name": "Bootstrap Portfolio",
             "website": "https://harmonious-puppy-6b42d3.netlify.app/"
         },
         {
             "id": 3,
             "link": "https://github.com/Mish-Al/BMICalculator.git",
-            "name": "BMI Calculator"
+            "name": "BMI Calculator",
             "website": "https://chic-sunshine-91737f.netlify.app/"
         },
         {
             "id": 4,
             "link": "https://github.com/Mish-Al/JSEcommerse.git",
-            "name": "Ecommerse Website"
+            "name": "Ecommerse Website",
             "website": "https://dazzling-beijinho-be73e5.netlify.app/"
         },
         {
             "id": 5,
             "link": "https://github.com/Mish-Al/Calculator.git",
-            "name": "Calculator"
+            "name": "Calculator",
             "website": "https://eclectic-speculoos-0c9d24.netlify.app/"
         },
         {
             "id": 6,
             "link": "https://github.com/Mish-Al/jsonServer.git",
-            "name": "Data Server"
+            "name": "Data Server",
             "website": "https://mish-al.github.io/vueServer/dataServer.json"
         }
     ],
