@@ -4,31 +4,31 @@
             "id": 1,
             "name": "HTML 5",
             "level": "Specialist",
-            "icon": "fa-brands fa-html5 fa-lg"
+            "icon": "fa-brands fa-html5"
         },
         {
             "id": 2,
             "name": "CSS",
             "level": "Specialist",
-            "icon": "fa-brands fa-css3-alt fa-lg"
+            "icon": "fa-brands fa-css3-alt"
         },
         {
             "id": 3,
             "name": "Bootstrap",
             "level": "Skilled",
-            "icon": "fa-brands fa-bootstrap fa-lg"
+            "icon": "fa-brands fa-bootstrap"
         },
         {
             "id": 4,
             "name": "Javascript",
             "level": "Average",
-            "icon": "fa-brands fa-square-js fa-lg"
+            "icon": "fa-brands fa-square-js"
         },
         {
             "id": 5,
             "name": "VueJs",
             "level": "Beginner",
-            "icon": "fa-brands fa-vuejs fa-lg"
+            "icon": "fa-brands fa-vuejs" 
         }
     ],
     "education": [
